@@ -1,4 +1,4 @@
-package com.example.kotlin
+package com.digruttola.kotlin
 
 fun main(args: Array<String>) {
     val numeroLoteria = listOf(11,22,43,56,78,66)
