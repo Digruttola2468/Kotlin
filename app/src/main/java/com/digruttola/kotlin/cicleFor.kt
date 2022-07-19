@@ -1,4 +1,4 @@
-package com.example.kotlin
+package com.digruttola.kotlin
 
 fun main(args: Array<String>){
     val listaDeFrutas = listOf("Manzana","Pera","Frambueza","Durazno")
