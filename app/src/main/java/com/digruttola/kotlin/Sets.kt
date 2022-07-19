@@ -1,4 +1,4 @@
-package com.example.kotlin
+package com.digruttola.kotlin
 
 fun main(args: Array<String>){
     //Sets: No puede tener elementos repetidos
